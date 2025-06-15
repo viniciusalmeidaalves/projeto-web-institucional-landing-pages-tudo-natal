@@ -4,7 +4,7 @@ Desenvolvimento da página Tudo Natal + Landing Pages
 
 Tecnologias HTML5, CSS3, JavaScript e PHP
 
-Baco de dados phpMyAdmin 
+Baco de dados MySQL 
 
 ## 🖼 Prévia do Projeto 
 ![image](https://github.com/user-attachments/assets/8419d2ff-f37b-4595-a5c4-5b924112e32d)
